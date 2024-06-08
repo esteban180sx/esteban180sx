@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban180sx@gmail.com)
 
 # 🤝 Greetings
-My name is Esteban Sanchez and I am a Systems and Computation Engineering Student from the University of Quindío.
+My name is Esteban Sanchez and I am a Systems and Computation Engineer from the University of Quindío.
 
 # 🧰 Technologies & Tools
 ## Languages: 
